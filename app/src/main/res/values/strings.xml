@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- App name -->
+    <string name="app_name">Members</string>
+
+    <!-- Edit Activity text -->
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="birth_day">Birth Day:</string>
+    <string name="address">Address:</string>
+    <string name="map_location">Map Location:</string>
+    <string name="default_location">[0 ; 0]</string>
+    <string name="default_date">01.01.2015</string>
+
+    <!-- About Activity text -->
+    <string name="location">Location:</string>
+
+    <!-- List View text -->
+    <string name="member_edit_button">edit_member_button</string>
+
+    <!-- Map Activity text -->
+    <string name="use_location">Add Location</string>
+
+    <!-- Activity name -->
+    <string name="title_activity_edit">Add Member</string>
+    <string name="title_activity_about">About Member</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Action menu name -->
+    <string name="action_save">Save</string>
+    <string name="action_add">Add</string>
+    <string name="action_set_location">Set Location</string>
+
+    <!-- Gender array -->
+    <string-array name="gender_selection">
+        <item>Man</item>
+        <item>Woman</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
